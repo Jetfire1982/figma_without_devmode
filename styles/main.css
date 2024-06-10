@@ -1,3 +1,7 @@
+@import url(./fonts.css); 
+
+
+
 h1{
     color: green;
 }
@@ -27,7 +31,7 @@ body{
     min-height: 500px;
     padding-top: 50px;
     padding-bottom: 50px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat SemiBold', sans-serif;
     color: #fff;
 }
 .header_title {
