@@ -4,3 +4,9 @@
     font-family: 'Montserrat SemiBold';
     src: url('../font/Montserrat/static/Montserrat-SemiBold.ttf')
 }
+
+
+@font-face{
+    font-family: 'Montserrat Regular';
+    src: url('../font/Montserrat/static/Montserrat-Regular.ttf')
+}
